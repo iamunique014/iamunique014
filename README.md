@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Mr Unique
+# 👋 Hi, I'm Alungile Mvenyeza
 
 🚀 I’m a passionate software developer who enjoys building real-world solutions with clean, maintainable code.
 
 ### 💡 What I’m About
 - 👀 I'm interested in collaborating on full-stack web development projects
-- 🌱 Currently learning and building with **ASP.NET Core**, **Razor Pages**, **EF Core**, and **Dapper**
+- 🌱 Currently learning and building with **ASP.NET Core**, **MVC**, **Dapper** and **EF CORE**
 - 💞️ Open to collaboration and contributing to impactful coding projects
-- 🧰 I work mainly with **C#**, **SQL Server**, **Bootstrap**, **JavaScript**, and **ASP.NET Core MVC**
+- 🧰 I work mainly with **C#**, **SQL Server**, **Bootstrap**, and **ASP.NET Core MVC**
 
 ### 📫 Let’s Connect
 - Email: **alungilemvenyeza@gmail.com**
