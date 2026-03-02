@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Alungile Mvenyeza
 
-🚀 I’m a passionate software developer who enjoys building real-world solutions with clean, maintainable code.
+ I’m a passionate software developer who enjoys building real-world solutions with clean, maintainable code.
 
 ### 💡 What I’m About
-- 👀 I'm interested in collaborating on full-stack web development projects
-- 🌱 Currently learning and building with **ASP.NET Core**, **MVC**, **Dapper** and **EF CORE**
-- 💞️ Open to collaboration and contributing to impactful coding projects
-- 🧰 I work mainly with **C#**, **SQL Server**, **Bootstrap**, and **ASP.NET Core MVC**
+- 👀 Full-stack web development projects
+- 🌱 Learning and building with **ASP.NET Core**, **MVC**, **Dapper** and **EF CORE**
+- 💞️ Collaborating and contributing to impactful coding projects
+- 🧰 **C#**, **SQL Server**, **Bootstrap**, and **ASP.NET Core MVC**
 
 ### 📫 Let’s Connect
 - Email: **alungilemvenyeza@gmail.com**
