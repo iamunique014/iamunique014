@@ -1,20 +1,57 @@
 # 👋 Hi, I'm Alungile Mvenyeza
 
- I’m a passionate software developer who enjoys building real-world solutions with clean, maintainable code.
+Software Developer focused on building practical web applications that solve real-world problems.
 
-### 💡 What I’m About
-- 👀 Full-stack web development projects
-- 🌱 Learning and building with **ASP.NET Core**, **MVC**, **Dapper** and **EF CORE**
-- 💞️ Collaborating and contributing to impactful coding projects
-- 🧰 **C#**, **SQL Server**, **Bootstrap**, and **ASP.NET Core MVC**
+Currently building **Kasi Room Network (KRN)** — a platform that helps tenants find affordable rooms and enables landlords to manage and advertise available accommodation.
 
-### 📫 Let’s Connect
-- Email: **alungilemvenyeza@gmail.com**
-- GitHub: [@iamunique014](https://github.com/iamunique014)
+## 🚀 What I Build
+
+- Full-stack web applications
+- ASP.NET Core MVC solutions
+- SQL Server database systems
+- Clean and maintainable software architectures
+- Business-focused software products
+
+## 🛠 Tech Stack
+
+- C#
+- ASP.NET Core MVC
+- SQL Server
+- Dapper
+- Entity Framework Core
+- Bootstrap
+- Git & GitHub
+
+## 📌 Current Project
+
+### Kasi Room Network (KRN)
+
+A room rental platform designed for South African communities.
+
+Features include:
+
+- Room listings
+- Property management
+- Search and filtering
+- Landlord verification
+- In-app messaging
+- Admin moderation tools
+
+## 🎯 Current Focus
+
+- Building production-ready software
+- Improving system design skills
+- Shipping real products
+- Creating solutions that make a measurable impact
+
+## 📫 Connect
+
+- Email: alungilemvenyeza@gmail.com
+- GitHub: @iamunique014
 
 ---
 
-🔧 Always learning. Always building.
+*"Build useful things. Improve continuously. Ship software."*
 
 
 <!---
